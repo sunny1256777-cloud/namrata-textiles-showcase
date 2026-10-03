@@ -1,13 +1,13 @@
 # 🥻 Namrata Textiles — Luxury 3D Immersive Digital Showroom
 
-> 🚀 **Live Demo:** [Open Namrata Textiles 3D Experience](https://ai.studio/apps/6322a514-0759-46f6-b563-d576e0222fa6?fullscreenApplet=true)
+> 🚀 **Live Demo:** [Open Namrata Textiles 3D Experience](https://namrata-textiles.vercel.app)
 
 An experiential, cinematic WebGL web application for **Namrata Textiles**, designed to recreate the feeling of walking inside a ₹5 Crore haute couture textile palace. Built with real-time cloth physics, custom silk shaders, and procedural soundscapes.
 
 ---
 
 ### 🌐 Live Platform & Access
-- **Showroom Experience:** [Namrata Textiles Live WebGL Portal](https://ai.studio/apps/6322a514-0759-46f6-b563-d576e0222fa6?fullscreenApplet=true)
+- **Showroom Experience:** [Namrata Textiles Live WebGL Portal](https://namrata-textiles.vercel.app)
 - **Status:** Active & Deployed
 - **Source Code:** Proprietary / Private Repository
 
